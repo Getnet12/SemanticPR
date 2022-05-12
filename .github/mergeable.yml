@@ -7,4 +7,4 @@ mergeable:
         min:
           count: 1
         limit:
-          users: [ 'BAbate','Getnet12']
+          users: ['BAbate','Getnet12']
