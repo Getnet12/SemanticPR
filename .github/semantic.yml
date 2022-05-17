@@ -1,6 +1,12 @@
 # Disable validation, and skip status check creation
 enabled: false
 
+# Always validate the PR title, and ignore the commits
+titleOnly: true
+
+# Always validate all commits, and ignore the PR title
+commitsOnly: true
+
 # Always validate the PR title AND all the commits
 titleAndCommits: true
 
