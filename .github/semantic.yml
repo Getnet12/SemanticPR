@@ -20,7 +20,7 @@ anyCommit: true
 # You can override the valid types
 types:
   - feat
-  - nf
+  - nf # for new features
   - fix
   - docs
   - style
